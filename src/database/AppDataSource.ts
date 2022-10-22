@@ -1,4 +1,4 @@
-import { DataSource } from "typeorm";
+import { DataSource } from 'typeorm';
 
 const AppDataSource = new DataSource({
     type: 'mongodb',
